@@ -120,7 +120,7 @@ This project is licensed under the MIT License.
 
 ✨ Created By
 
-Manvi Yadav ✨
+Aarnav Anand ✨
 
 Crafted with ❤️ to enhance real-time communication experiences.
 
