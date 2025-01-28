@@ -47,7 +47,7 @@ Clone the repository:
 git clone (https://github.com/Aarnavanand/chat-with-friends)
 cd chat-app-react-nodejs
 
-Rename environment files from .env.example to .env:
+Rename environment files from .env to .env:
 
 cd public
 mv .env.example .env
