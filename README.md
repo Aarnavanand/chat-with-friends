@@ -44,7 +44,7 @@ Method 1: Manual Setup
 
 Clone the repository:
 
-git clone https://github.com/koolkishan/chat-app-react-nodejs
+git clone (https://github.com/Aarnavanand/chat-with-friends)
 cd chat-app-react-nodejs
 
 Rename environment files from .env.example to .env:
