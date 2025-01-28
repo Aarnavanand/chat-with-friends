@@ -1,6 +1,6 @@
-Snappy - A Real-Time Chat Application
+chat-With-Friends - A Real-Time Chat Application
 
-Snappy is a real-time chat application built using the MERN (MongoDB, Express, React, Node.js) Stack. This project allows users to communicate seamlessly in a modern and responsive chat interface.
+chat-With-Friends is a real-time chat application built using the MERN (MongoDB, Express, React, Node.js) Stack. This project allows users to communicate seamlessly in a modern and responsive chat interface.
 
 📌 Features
 
